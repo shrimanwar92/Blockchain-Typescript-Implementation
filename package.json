@@ -1,0 +1,13 @@
+{
+  "name": "sawtooth-ekyc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node build/Blockchain.js"
+  },
+  "devDependencies": {
+    "@types/node": "^8.10.21",
+    "typescript": "^2.6.1"
+  }
+}
